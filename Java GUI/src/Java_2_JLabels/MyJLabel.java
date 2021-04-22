@@ -7,9 +7,11 @@ import java.awt.*;
 public class MyJLabel {
     public static void main(String[] args) {
 
+
+
         //JLabel = a GUI display area for a string to text, or both
 
-        ImageIcon image = new ImageIcon("logo.png"); //bot.png
+        ImageIcon image = new ImageIcon("Icons/keny.png"); //bot.png
         Border border = BorderFactory.createLineBorder(Color.blue,3);
 
         JLabel label = new JLabel(); //create label
